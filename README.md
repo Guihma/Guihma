@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guihma
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Java and SQL
+- 👀 I’m interested in ETL and Python
+- 🌱 I’m currently learning SQL and Python
 - 📫 LinkedIn www.linkedin.com/in/guilhermehmalves
 
 <!---
